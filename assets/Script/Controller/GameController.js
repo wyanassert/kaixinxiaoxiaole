@@ -13,6 +13,7 @@ cc.Class({
       type: cc.Node
     },
     audioSource: {
+      default: null,
       type: cc.AudioSource
     }
   },
